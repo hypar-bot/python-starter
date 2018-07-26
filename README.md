@@ -22,5 +22,3 @@ python -m unittest
 
 ## Preview
 Hypar functions generate geometry in the form of [glTF](https://www.khronos.org/gltf/) models. One of the tests will generate a `model.glb` at the root of the repository. GlTF models can be previewed using the [online glTF viewer](https://gltf-viewer.donmccurdy.com/) or using the [glTF GitHub Chrome Extension](https://chrome.google.com/webstore/detail/gltf-preview-for-github/cokmplcldeedmnkojcinmmpjkpnalbci) which will show a preview button next to a `.glb` file in your repository.
-
-test1
